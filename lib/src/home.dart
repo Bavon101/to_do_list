@@ -21,7 +21,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       key: globalKey,
       appBar: AppBar(
-        title: const Text('D\'s To do'),
+        title: const Text('Dee\'s To do'),
         centerTitle: true,
       ),
       body: Center(
